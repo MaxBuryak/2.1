@@ -1,0 +1,156 @@
+{
+	"Thailand": [
+		{
+			"sea": "True"
+		},
+		{
+	    	"schengen": "False"
+		},
+		{   
+	    	"average_temperature": 30
+		},
+		{   
+	    	"currency_rate": 1.8
+		},
+		{   	
+			"one_day_cost": 200
+    	}
+	],
+	"Hungary": [
+		{
+			"sea": "False"
+		},
+		{
+	    	"schengen": "True"
+		},
+		{   
+	    	"average_temperature": 10
+		},
+		{   
+	    	"currency_rate": 0.3
+		},
+		{   	
+			"one_day_cost": 40
+    	}
+	],
+	"Germany": [
+		{
+			"sea": "True"
+		},
+		{
+	    	"schengen": "True"
+		},
+		{   
+	    	"average_temperature": 5
+		},
+		{   
+	    	"currency_rate": 80
+		},
+		{   	
+			"one_day_cost": 50
+    	}
+	],	
+	"Japan": [
+		{
+			"sea": "True"
+		},
+		{
+	    	"schengen": "False"
+		},
+		{   
+	    	"average_temperature": 15
+		},
+		{   
+	    	"currency_rate": 0.61
+		},
+		{   	
+			"one_day_cost": 120
+    	}
+	],		
+	"Italy": [
+		{
+			"sea": "True"
+		},
+		{
+	    	"schengen": "True"
+		},
+		{   
+	    	"average_temperature": 20
+		},
+		{   
+	    	"currency_rate": 75
+		},
+		{   	
+			"one_day_cost": 50
+    	}
+	],	
+	"Cuba": [
+		{
+			"sea": "True"
+		},
+		{
+	    	"schengen": "False"
+		},
+		{   
+	    	"average_temperature": 30
+		},
+		{   
+	    	"currency_rate": 75
+		},
+		{   	
+			"one_day_cost": 30
+    	}
+	],	
+	"Turkey": [
+		{
+			"sea": "True"
+		},
+		{
+	    	"schengen": "False"
+		},
+		{   
+	    	"average_temperature": 25
+		},
+		{   
+	    	"currency_rate": 20
+		},
+		{   	
+			"one_day_cost": 20
+    	}
+	],	
+	"Morocco": [
+		{
+			"sea": "True"
+		},
+		{
+	    	"schengen": "False"
+		},
+		{   
+	    	"average_temperature": 25
+		},
+		{   
+	    	"currency_rate": 7
+		},
+		{   	
+			"one_day_cost": 10
+    	}
+	],	
+	"Ukrain": [
+		{
+			"sea": "True"
+		},
+		{
+	    	"schengen": "False"
+		},
+		{   
+	    	"average_temperature": 15
+		},
+		{   
+	    	"currency_rate": 2.5
+		},
+		{   	
+			"one_day_cost": 50
+    	}
+	]	
+}	  
+
